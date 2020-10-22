@@ -1,5 +1,4 @@
 # An official code for the paper "A Fair Classifier using Kernel Density Estimation" (paper)
----
 
 Run the following command to install required packages:
 
